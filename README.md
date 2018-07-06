@@ -132,3 +132,7 @@ This should send a DocuSign Envelope with the Template as the Document and the r
 The createEnvelope method can be extended to:
 - Future callouts in order to send Envelopes via Apex Trigger / Scheduled Jobs / Batch jobs
 - Invocable methods to send Envelopes via Process Builders.
+
+## License
+
+The DocuSign Java Client is licensed under the following [License](LICENSE).
