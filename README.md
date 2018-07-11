@@ -63,7 +63,8 @@ Configure Envelope sending via Apex. This Apex Utility class can then be used in
  
  ![Consent Screenshot](/images/Consent.JPG) 
  
-  
+ After clicking Accept you will be redirected to the redirect URI specified in the URI as well as the Integrator key. For the purpose of this recipe I am using 'https://localhost.com' so, if you are redirected to this URI it means that the consent has been granted successfully.
+ 
   ### 3. Note down DocuSign API UserName and API AccountID.
   - Login to your DocuSign Developer Sandbox and click on **Go to Admin** . 
   - Select **API and Keys** link which should be found under **'Integrations'**. 
